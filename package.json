@@ -1,0 +1,24 @@
+{
+  "name": "intensiv_OZON",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marikor168/Intensiv_OZON.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marikor168/Intensiv_OZON/issues"
+  },
+  "homepage": "https://github.com/marikor168/Intensiv_OZON#readme",
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
